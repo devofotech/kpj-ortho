@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<source_list version="1.0" creator="Global Mapper - http://www.globalmapper.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.globalmapper.com/OSL/1/0" xsi:schemaLocation="http://www.globalmapper.com/OSL/1/0 http://www.globalmapper.com/OSL/1/0/gmc.xsd">
+<source type="OSM">
+  <name>KPJ_JOHOR</name>
+  <FileExt>png</FileExt>
+  <LatLonBounds>103.7377166748,1.5420196225,103.7425231934,1.5461379996</LatLonBounds>
+  <NumZoomLevels>24</NumZoomLevels>
+  <TileSize>256</TileSize>
+  <BaseURL><![CDATA[file:///E:/2020_12_JOHOR/KPJ%20JOHOR/OSM_2/]]></BaseURL>
+  <NativeProj>EPSG:3857</NativeProj>
+</source>
+</source_list>
